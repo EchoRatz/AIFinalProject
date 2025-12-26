@@ -1,0 +1,6 @@
+init_labeled: 1000
+query_size: 1000
+rounds: 10
+epochs_per_round: 10
+batch_size: 64
+learning_rate: 0.001
